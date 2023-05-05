@@ -6,9 +6,9 @@ Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</s
 - 💬 Pergunte-me sobre: <strong>Games e Música</strong>
 - 📣 Nós podemos falar em: <strong>Português e Pajubá</strong>
 
-<div align="left">![kesia-salgado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesia-salgado&theme=tokyonight&hide_border=false)
-
 <div align="left">
 <a href="https://www.linkedin.com/in/kesiasalgado/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a
 </div>
+    
+ ![kesia-salgado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesia-salgado&theme=tokyonight&hide_border=false)
