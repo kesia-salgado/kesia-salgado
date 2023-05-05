@@ -5,7 +5,8 @@ Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</s
 - 🚀 Atualmente estou aprendendo: <strong> Full Stack | HTML | CSS </strong> 
 - 💬 Pergunte-me sobre: <strong>Games e Música</strong>
 - 📣 Nós podemos falar em: <strong>Português e Pajubá</strong>
-![kesia-salgado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesia-salgado&theme=tokyonight&hide_border=false)
+
+<div align="left">![kesia-salgado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesia-salgado&theme=tokyonight&hide_border=false)
 
 <div align="left">
 <a href="https://www.linkedin.com/in/kesiasalgado/" alt="Linkedin">
