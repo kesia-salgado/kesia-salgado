@@ -9,8 +9,8 @@ Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</s
 <div align="center">
 
   <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(kesia.salgado@gmail.com)"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="/></a>
 
   <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/kesiasalgado)/" /></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link= <https://www.linkedin.com/in/kesiasalgado> /" /></a>
 </div>
