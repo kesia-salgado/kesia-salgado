@@ -1,7 +1,6 @@
 # [Késia Salgado]
 <img src="https://assets.teenvogue.com/photos/56cbd425ea0442eb048fe30d/master/w_600,h_338,c_limit/riri-bye.gif" width="150px">
 
-: ---
 - 🚀 Atualmente estou aprendendo: <strong> Full Stack | HTML | CSS </strong> 
 - 💬 Pergunte-me sobre: <strong>Games e Música</strong>
 - 📣 Nós podemos falar em: <strong>Português e Pajubá</strong>
