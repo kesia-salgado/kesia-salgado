@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/kesiasalgado/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 <a href="https://kesiasalgado.netlify.app/" alt="website">
-    <img src="https://img.shields.io/website"/></a>
+    <img src="[https://img.shields.io/website"]/></a>
 </div>
     
  ![kesia-salgado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesia-salgado&theme=tokyonight&hide_border=false)
